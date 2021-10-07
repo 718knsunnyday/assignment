@@ -28,21 +28,21 @@ main{
 }
 
 .box-img1{
-  background-image: url(img/flow01.png);
+  background-image: url(./img/flow01.png);
   height: 150px;
   background-position: bottom;
   background-size: cover;
 }
 
 .box-img2{
-  background-image: url(img/flow02.png);
+  background-image: url(./img/flow02.png);
   height: 150px;
   background-position: bottom;
   background-size: cover;
 }
 
 .box-img3{
-  background-image: url(img/flow03.png);
+  background-image: url(./img/flow03.png);
   height: 150px;
   background-position: bottom;
   background-size: cover;
@@ -77,8 +77,8 @@ footer{
 
   .box{
     width: 90%;
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-right: 3%;
+    margin-left: 3%;
     margin-bottom: 20px;
   }
 
